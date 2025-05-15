@@ -1,0 +1,9 @@
+{
+  "name": "contextum-remote-mcp-authless",
+  "type": "javascript",
+  "account_id": "your-cloudflare-account-id",
+  "workers_dev": true,
+  "compatibility_date": "2025-05-15",
+  "route": "",
+  "env": {}
+}
