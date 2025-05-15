@@ -1,2 +1,2 @@
 # remote-mcp-authless
-Remote authless MCP server for Contextum
+Remote MCP server for Contextum with authless deployment
